@@ -1,3 +1,8 @@
+### v5.1.0 (2025-08-24)
+
+* mirage-mtime.mock: add a `val Mirage_mtime_set.reset : unit -> unit` function,
+  required by moby/vpnkit (#2 @hannesm)
+
 ### v5.0.0 (2025-01-30)
 
 * Renamed to mirage-mtime (from mirage-clock), only the MCLOCK part
