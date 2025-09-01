@@ -1,3 +1,7 @@
+### v5.2.0 (2025-09-01)
+
+* Add support for unikraft (#1 @shym @fabbing @Firobe)
+
 ### v5.1.0 (2025-08-24)
 
 * mirage-mtime.mock: add a `val Mirage_mtime_set.reset : unit -> unit` function,
